@@ -44,7 +44,7 @@ North Dakota
 Ohio
 Oklahoma
 Oregon
-Pennsylbania
+Pennsylvania
 Rhode Island
 South Carolina
 -
@@ -59,7 +59,7 @@ West Virginia
 Wisconsin
 Wyoming
 */
-
+{"States"}
 
 var Alabama = {};
 var Alaska = {};
@@ -101,7 +101,7 @@ var North Dakota = {};
 var Ohio = {};
 var Oklahoma = {};
 var Oregon = {};
-var Pennsylbania = {};
+var Pennsylvania = {};
 var Rhode Island = {};
 var South Carolina = {};
 //
