@@ -1,0 +1,119 @@
+/*
+RAW
+	use as copypasta for JSON/XML/etc.
+
+
+
+Alabama
+Alaska
+Arizona
+Arkansas
+California
+Colorado
+Conneticut
+Delaware
+Florida
+Georgia
+-
+Hawaii
+Idaho
+Illinois
+Indiana
+Iowa
+Kansas
+Kentucky
+Louisiana
+Maine
+Maryland
+-
+Massachusetts
+Michigan
+Minnesota
+Mississippi
+Missouori
+Montana
+Nebraska
+Nevada
+New Hampshire
+New Jersey
+-
+New Mexico
+New York
+North Carolina
+North Dakota
+Ohio
+Oklahoma
+Oregon
+Pennsylbania
+Rhode Island
+South Carolina
+-
+South Dakota
+Tennessee
+Texas
+Utah
+Vermont
+Virginia
+Washington
+West Virginia
+Wisconsin
+Wyoming
+*/
+
+
+var Alabama = {};
+var Alaska = {};
+var Arizona = {};
+var Arkansas = {};
+var California = {};
+var Colorado = {};
+var Conneticut = {};
+var Delaware = {};
+var Florida = {};
+var Georgia = {};
+//
+var Hawaii = {};
+var Idaho = {};
+var Illinois = {};
+var Indiana = {};
+var Iowa = {};
+var Kansas = {};
+var Kentucky = {};
+var Louisiana = {};
+var Maine = {};
+var Maryland = {};
+//
+var Massachusetts = {};
+var Michigan = {};
+var Minnesota = {};
+var Mississippi = {};
+var Missouori = {};
+var Montana = {};
+var Nebraska = {};
+var Nevada = {};
+var New Hampshire = {};
+var New Jersey = {};
+//
+var New Mexico = {};
+var New York = {};
+var North Carolina = {};
+var North Dakota = {};
+var Ohio = {};
+var Oklahoma = {};
+var Oregon = {};
+var Pennsylbania = {};
+var Rhode Island = {};
+var South Carolina = {};
+//
+var South Dakota = {};
+var Tennessee = {};
+var Texas = {};
+var Utah = {};
+var Vermont = {};
+var Virginia = {};
+var Washington = {};
+var West Virginia = {};
+var Wisconsin = {};
+var Wyoming = {};
+
+
